@@ -1,5 +1,5 @@
 # カスタムマトリックス
-
+この文書はカスタムマトリックスの実装方法を説明します。
 <!---
   grep --no-filename "^[ ]*git diff" docs/ja/*.md | sh
   original document: 0.8.46:docs/custom_matrix.md
